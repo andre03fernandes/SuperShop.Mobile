@@ -93,7 +93,7 @@
                 BackgroundColor="Navy"
                 Command="{Binding AddToCartBinding}"
                 CornerRadius="10"
-                Text="Add To Cart"
+                Text="AddToCart"
                 TextColor="White"
                 VerticalOptions="EndAndExpand" />
         </StackLayout>
